@@ -1,7 +1,7 @@
 name: ZonaEncuentros
 favicon: null
-layout_spectrum: 0.24118264205753803
-typography_spectrum: 0.2628060069400817
+layout_spectrum: 0.74705
+typography_spectrum: 0.73435
 title: Tu lugar de encuentro
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.25046713394112885
+  brandStrength: 0.5
   lightness: 0.6879949262365699
   saturation: 0.6797000491060317
   rhythmicContrast: 0.12150916387327015

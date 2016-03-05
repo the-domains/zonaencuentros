@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ZonaEncuentros]]></title>
-        <description><![CDATA[ZonaEncuentros]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Tu lugar de encuentro]]></title>
+        <description><![CDATA[Tu lugar de encuentro]]></description>
+        <link>https://thegrid.ai/zonaencuentros/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 05:14:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 05:23:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zonaencuentros/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bienvenidos a ZonaEncuentros]]></title>
-            <description><![CDATA[<article><h1>Bienvenidos a ZonaEncuentros</h1><p>Tu sitio, nuestro sitio...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/377fd5a2f0be4f42cae489de1f0a31a833d6ae3a.jpg"></article>]]></description>
-            <link>undefinedzonaencuentros/index.html</link>
+            <description><![CDATA[<article><h1>Bienvenidos a ZonaEncuentros</h1><p>Tu sitio, nuestro sitio...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/432a51af91638a262c03d8ff5a2478d0cba5defd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/zonaencuentros/zonaencuentros/index.html</link>
             <guid isPermaLink="false">baa1edff-93e8-4c63-920c-bf795f7b310a</guid>
-            <pubDate>Sat, 05 Mar 2016 05:14:33 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 05:23:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

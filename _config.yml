@@ -1,0 +1,28 @@
+name: ZonaEncuentros
+favicon: null
+layout_spectrum: 0.24118264205753803
+typography_spectrum: 0.2628060069400817
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.25046713394112885
+  lightness: 0.6879949262365699
+  saturation: 0.6797000491060317
+  rhythmicContrast: 0.12150916387327015
+purpose: []
